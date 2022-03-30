@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulo-marca {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.cor-cliente {
+    background-color: #e3f2fd;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 400px
+}
+
+.cor-legendas {
+    color: black;
+    font-weight: bold;
+}
+
+.legenda-fundo{
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+}
+
+.card-altura {
+    object-fit: cover;
+    height: 300px;
+}
+
+.card-altura:hover {
+    height: 400px;
+    width: 24rem;
+}
+
+.card-largura {
+    width: 18rem;
+}
+
+.alinhamento {
+    text-align: center;
+    text-align: bottom;
+}
